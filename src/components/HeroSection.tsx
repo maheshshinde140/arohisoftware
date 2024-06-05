@@ -29,7 +29,7 @@ function HeroSection() {
           <div className=" absolute flex justify-between px-[30px] items-center lg:flex-row flex-wrap-reverse sm:flex-col h-screen w-screen bg-black bg-transparent ">
             <div className="h-[40rem] flex px-[50px] flex-col justify-center items-center">
               <div className="text-8xl mx-auto font-bold text-neutral-600 dark:text-neutral-400">
-                Let's
+                Let&apos;s
                 <FlipWords words={words} /> <br />
               </div>
               <code className=" font-semibold text-green-600 text-xl">

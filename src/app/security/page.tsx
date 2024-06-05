@@ -37,7 +37,7 @@ const page = () => {
               <p className="font-normal text-lg">
                 Effective security and compliance are crucial for safeguarding
                 business assets, customer data, and reputation. Despite the
-                relentless stream of attacks, Xoriant's extensive security
+                relentless stream of attacks, Xoriant&apos;s extensive security
                 expertise and continuous adoption of innovative tools empower us
                 to shield your assets—be it legacy systems, cloud-native
                 infrastructure, or mobile apps. Count on us to eliminate both

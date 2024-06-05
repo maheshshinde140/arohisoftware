@@ -15,7 +15,7 @@ const research = () => {
         <div className=' h-[600px] lg:w-[800px] sm:w-[500px] mt-10 p-8 ' style={{ textShadow: '4px 4px 8px rgba(0, 0, 0, 0.5)' }}>
           <h1 className='text-6xl font-mono'>Shaping the Future of Technology</h1>
           <p className='pt-14 font-normal text-3xl w-[500px]'>Your vision, our innovation: Building a better world together. </p>
-          <button className=' bg-white font-bold  text-black rounded-md p-2 mt-[60px]' >`Let's Connect`</button>
+          <button className=' bg-white font-bold  text-black rounded-md p-2 mt-[60px]' >Let&apos;s Connect</button>
         </div>
       </div>
 
