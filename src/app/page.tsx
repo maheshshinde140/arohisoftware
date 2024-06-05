@@ -83,8 +83,8 @@ export default function Home() {
                 className=" relative flex justify-center text-center text-5xl font-semibold mt-[90px] h-[300px] w-[600px] "
                 style={{ textShadow: "2px 2px 4px rgba(0, 0, 0, 0.5)" }}
               >
-                " Every day, we embrace change and create value for all our
-                stakeholders, in every part of the world. "
+              &quot;  Every day, we embrace change and create value for all our
+                stakeholders, in every part of the world. &quot;
               </div>
 
               <div className=" relative h-[200px] ml-[260px] w-[500px]">
